@@ -1,0 +1,52 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+#calculator1{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+#calculator2{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+#calculator3{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+#calculator4{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+#alert{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+#bmi{
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
